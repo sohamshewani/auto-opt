@@ -1,0 +1,1 @@
+AutoOpt is a Java-based CLI utility that uses machine learning to predict and remove unused files proactively, optimizing disk cleanup processes.
